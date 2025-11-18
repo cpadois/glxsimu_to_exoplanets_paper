@@ -9,9 +9,10 @@ The galactic simulations files are from the NIHAO-UHD suite of simulation ([Buck
 
 # Installation
 
-To run the plots notebook, first clone this repository: `git clone https://github.com/cpadois/glxsimu_to_exoplanets_paper.git`
-Then download the necessary files from the [drive]((https://drive.google.com/drive/folders/1XCubmlklQK1YoEVygK9Mz06laf4u79iE?usp=sharing)).
-Ready to run the notebook (`figures_clean_Padois25.ipynb`)!
+To run the plots notebook:
+- first clone this repository: `git clone https://github.com/cpadois/glxsimu_to_exoplanets_paper.git`
+- then download the necessary files from the [drive](https://drive.google.com/drive/folders/1XCubmlklQK1YoEVygK9Mz06laf4u79iE?usp=sharing).
+- ready to run the notebook (`figures_clean_Padois25.ipynb`)!
 
 # ...
 
